@@ -1,0 +1,15 @@
+﻿name: Hungry
+author: tream
+main: tream\Hungry
+api: [2.0.0, 3.0.0-ALPHA3]
+version: 1
+
+
+commands:
+  밥:
+    permission: Hungry.command
+    description: §r§c§l[ §f배고픔을 채웁니당 §c]
+
+permissions:
+          Hungry.command:
+            default: true
